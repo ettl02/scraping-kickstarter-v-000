@@ -18,10 +18,9 @@ def create_project_hash
     end
 
   # return the projects hash
-  projects
-end
-
+projects
 end 
+
 
 # projects: kickstarter.css("li.project.grid_4")
 
